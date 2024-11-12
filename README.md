@@ -1,4 +1,4 @@
-# News Sentiment Analysis
+# News Sentiment Analysis 
 
 ## Overview
 This project performs sentiment analysis on real-time news headlines. It fetches the latest technology news from an external API (NewsAPI), analyzes the sentiment (positive, neutral, or negative) of each headline using a pre-trained machine learning model, and visualizes the results in a bar chart.
